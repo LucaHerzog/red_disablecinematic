@@ -1,4 +1,4 @@
-# RedScripts - Red Alarms
+# RedScripts - Red Disable Cinematic Cam
 
 
 With this script you can disable the standard cinematic cam with the crazy zooms when you are afk for more than 30 seconds. This is a cool addon to fivem roleplay servers.
